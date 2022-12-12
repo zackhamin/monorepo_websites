@@ -5,6 +5,7 @@ const StyledHeading = styled.header`
   align-items: center;
   justify-content: center;
   height: 4rem;
+  font-size: 30px;
 `;
 
 export { StyledHeading };

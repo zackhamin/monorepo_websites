@@ -1,5 +1,4 @@
 import { log } from "logger";
-import Head from "next/head";
 import { Header } from "../components/header";
 import { Body } from "../components/body/body";
 
