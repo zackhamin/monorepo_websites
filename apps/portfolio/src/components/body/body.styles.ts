@@ -30,6 +30,9 @@ const StyledTextWrapper = styled.text`
   display: flex;
   flex-direction: column;
   margin-top: 1rem;
+  @media (max-width: 768px) {
+    font-size: 0.8rem;
+  }
   .link {
     margin-top: 1rem;
   }
