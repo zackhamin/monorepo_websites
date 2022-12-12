@@ -14,6 +14,10 @@ const StyledDivWrapper = styled.div`
   border: 1px lightGrey solid;
   width: 50rem;
   height: 50rem;
+  @media (max-width: 768px) {
+    width: 20rem;
+    height: 20rem;
+  }
 `;
 
 const StyledDiv = styled.div`
